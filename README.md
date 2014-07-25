@@ -1,6 +1,5 @@
 pdftext
 =======
 
-Convert PDF to Text
-
+* Convert PDF to Text
 * OS X
