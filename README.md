@@ -7,7 +7,7 @@ pdftext
 
 ## How to convert
 
-```
+```objective-c
 NSString *path = @"/path/to/pdf";
 PDFDocument *document = [[PDFDocument alloc] initWithURL:[NSURL fileURLWithPath:path]];
 NSString *string = document.string;
