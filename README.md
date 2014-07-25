@@ -1,10 +1,9 @@
 pdftext
 =======
 
-## Basis
-* Convert PDF to text Command Line Tool
+* Convert PDF to Text
+* Command Line Tool
 * OS X
-
 
 ## Usage
 
