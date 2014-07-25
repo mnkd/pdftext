@@ -5,6 +5,11 @@ pdftext
 * Convert PDF to text Command Line Tool
 * OS X
 
+
+## Usage
+
+`pdftext /path/to/pdf-file`
+
 ## How to convert
 
 ```objective-c
@@ -14,5 +19,5 @@ NSString *string = document.string;
 NSLog(@"%@", string);
 ```
 
-## Refer
+## Reference
 https://developer.apple.com/library/mac/Documentation/GraphicsImaging/Reference/QuartzFramework/Classes/PDFDocument_Class/Reference/Reference.html
